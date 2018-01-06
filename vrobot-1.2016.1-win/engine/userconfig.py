@@ -1,5 +1,5 @@
 # Name of the team
-team_name = 'Mesa High'
+team_name = 'notThatDECA'
 
 # IP address or host name of visualization server
 server = '192.168.1.100'
