@@ -1,0 +1,5 @@
+:ShowBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:ShowBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:ShowBase: __dev__ == False
+:TaskManager: TaskManager.destroy()
+Exception AttributeError: "'libpandaexpress.StreamWriter' object has no attribute 'close'" in <bound method tee.__del__ of <engine.tee instance at 0x06A56B98>> ignored

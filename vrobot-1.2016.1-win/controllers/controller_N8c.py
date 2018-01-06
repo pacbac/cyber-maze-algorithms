@@ -1,0 +1,1 @@
+def control_robot(robot):
